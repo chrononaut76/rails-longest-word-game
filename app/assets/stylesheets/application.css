@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+.tiles {
+  background-color: rgb(52, 152, 220);
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, .3);
+  font-family: 'Courier Prime', 'Courier New', Courier, monospace;
+  font-weight: 600;
+}
